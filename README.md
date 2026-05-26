@@ -1,7 +1,7 @@
 # TQS 2026 — Projeto-exemplo de Teste e Qualidade de Software
 
 > Material didático da disciplina **Teste e Qualidade de Software (PC010027)** — graduação, Universidade Federal do Oeste do Pará (UFOPA).
-> Prof. **Helvecio Bezerra Leal Neto** · 2026
+> Prof. **Helvecio Bezerra Leal Neto** · 2026.
 
 Este repositório é um **livro prático em capítulos**. Construímos juntos uma pequena aplicação web (um validador de CPF e e-mail) e usamos cada etapa para demonstrar um conceito da disciplina: testes automatizados, TDD, qualidade de código, CI/CD, deploy automatizado e workflow de Pull Requests.
 
